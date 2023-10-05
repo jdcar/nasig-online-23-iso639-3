@@ -1,4 +1,9 @@
+record-sample-100-td
+record-sample-100.mrk
+
 # Byte-compiled / optimized / DLL files
+
+
 __pycache__/
 *.py[cod]
 *$py.class
